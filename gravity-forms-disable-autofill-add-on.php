@@ -3,7 +3,7 @@
 * Plugin Name: Gravity Forms Disable Autofill Add-On
 * Plugin URI: http://andrewmgunn.com/gravity-forms-disable-autofill-add-on/
 * Description: Disable the browser's ability to autofill forms and input fields on selected Gravity Forms. Ideal for forms with sensitive information and provides extra level of form submission security.
-* Version: 1.3
+* Version: 1.3.1
 * Author: Andrew M. Gunn
 * Author URI: http://andrewmgunn.com
 * Text Domain: gravity-forms-disable-autofill-add-on
