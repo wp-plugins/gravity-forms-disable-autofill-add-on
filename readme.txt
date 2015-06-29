@@ -1,10 +1,10 @@
 === Gravity Forms Disable Autofill Add-On ===
 Donate link: http://andrewmgunn.com/donate/
 Contributors: amg26
-Tags: gravity forms, gravity forms add-on, gravity forms disable autofill, gravity forms disable autofill add-on, autofill, form autofill, input autofill, disable autofill, disable form autofill
+Tags: gravity forms, gravity forms add-on, disable autofill, form autofill, disable form autofill
 Requires at least: 3.5
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
